@@ -3,7 +3,7 @@
 @Author: 王翊嘉 / abcd1234  
 @Email: abcd1234dbren@yeah.net
 
-This project is a record for me to learn knowledge graph. And the tutorial of mine is [`https://www.ljjyy.com/archives/2019/11/100629.html`](https://www.ljjyy.com/archives/2019/11/100629.html)
+This project is a record for me to learn knowledge graph. And the main tutorial of mine is [`https://www.ljjyy.com/archives/2019/11/100629.html`](https://www.ljjyy.com/archives/2019/11/100629.html)
 
 ## What will I do?
 
